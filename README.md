@@ -1,9 +1,9 @@
 # 📝PaperGames
 ## ❔ Description
 A project aimed at making an app containing a collection of simple games!
+-It now contains only **❌Tic-Tac-Toe** and more games will be added in the future
 ## 🚀 Progress
-#### 20% of Release
-- Completed the console version of **❌Tic-Tac-Toe**
+#### 30% for Release of Non-GUI Version
 ## 📜 Plans
 - Make Console version of **🔢Number-Guesser**
-- Make a GUI for it
+- Make a menu to choose between the games
