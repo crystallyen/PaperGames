@@ -1,7 +1,7 @@
 # 📝PaperGames
 ## ❔ Description
 A project aimed at making an app containing a collection of simple games!
-- It only contains the text version of **❌Tic-Tac-Toe** yet.
+- For now it only contains the text version of **❌Tic-Tac-Toe**.
 ## 🚀 Progress
 #### 30% of Non-GUI Version
 ## 📜 Plans
