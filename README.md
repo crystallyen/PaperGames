@@ -1,7 +1,8 @@
 # 📝PaperGames
 ## ❔ Description
 A project aimed at making an app containing a collection of simple games!
-- It has **🔢Number-Guesser** and **❌Tic-Tac-Toe**
+- It has **🔢Number-Guesser** and **❌Tic-Tac-Toe** 
+> **🔢Number-Guesser** is part of v1 Release and has not released yet
 ## 🚀 Progress
 **5%** of GUI Version
 ## 📜 Plans
