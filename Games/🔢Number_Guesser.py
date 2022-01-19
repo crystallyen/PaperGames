@@ -1,7 +1,6 @@
 #IMPORTS
 import math
 from random import randrange
-from .PaperGames import GameMenu
 
 #DEFINING VARIABLES
 Database = {
@@ -70,7 +69,7 @@ def WinHandler():
     Database["PotentialNumbers"] = []
     Database["PossibleNumbers"] = []
     Database["Count"] = 0
-    GameMenu()
+    NumberGuesser()
 
 ##Asks the player if their number is higher than or lower than the number guessed by the computer, updates the possible numbers, calls itself recursively if not guessed or calls the winhandler functon if guessed
 def Number_Guesser():
