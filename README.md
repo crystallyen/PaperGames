@@ -1,5 +1,6 @@
 # 📝PaperGames
 ## 💀 Dead Project
+This is boring 😔
 ## ❔ Description
 A project aimed at making an app containing a collection of simple games!
 - It has **🔢Number-Guesser** and **❌Tic-Tac-Toe** .
