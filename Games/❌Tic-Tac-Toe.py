@@ -114,7 +114,7 @@ def TicTacToe():
     else:
         if drawchecker() is True: #Checks if the game has resulted in a draw with the draw checking funtion
             print("Draw in " + str(database["count"]) + " moves! No one wins")
-            GameMenu()
+            TicTacToe()
         else: #Congratulates the player who won if the game has not ended in a draw
             if database["count"] % 2 == 1:
                 print(OPlayer + " Wins! Defeated " + XPlayer + " in " + str(database["count"]) + " moves!")
