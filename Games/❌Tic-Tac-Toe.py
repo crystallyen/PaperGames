@@ -1,6 +1,3 @@
-#IMPORTS
-from .PaperGames import GameMenu
-
 #DEFINING VALUES
 
 ##Defines the database with empty/default values
@@ -136,4 +133,4 @@ def TicTacToe():
             "c3": "",
             "count": 1
             }
-            GameMenu()
+            TicTacToe()
